@@ -22,5 +22,6 @@
 "isup.coffee",
 "phpdoc.coffee",
 "plusplus.coffee",
-"urban.coffee"
+"urban.coffee",
+"twitter.coffee"
 ]

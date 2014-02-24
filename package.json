@@ -32,7 +32,8 @@
     "xml2js": "0.1.14",
     "htmlparser": "1.7.6",
     "soupselect": "0.2.0",
-    "cheerio": ""
+    "cheerio": "",
+    "twit": "1.1.6"
 
   },
   "engines": {
