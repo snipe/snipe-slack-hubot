@@ -1,1 +1,26 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+"redis-brain.coffee", 
+"shipit.coffee",
+"ascii.coffee",
+"aww.coffee",
+"base64.coffee",
+"coin.coffee",
+"excuse.coffee",
+"eardropping.coffee",
+"eight-ball.coffee",
+"f-ing-weather.coffee",
+"flip.coffee",
+"fml.coffee",
+"futurama.coffee",
+"gemwhois.coffee",
+"github-status.coffee",
+"google.coffee",
+"howdoi.coffee",
+"http-info.coffee",
+"hashing.coffee",
+"hubotagainsthumanity.coffee",
+"isup.coffee",
+"phpdoc.coffee",
+"plusplus.coffee",
+"urban.coffee"
+]
