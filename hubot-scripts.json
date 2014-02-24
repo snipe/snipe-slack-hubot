@@ -23,5 +23,6 @@
 "phpdoc.coffee",
 "plusplus.coffee",
 "urban.coffee",
-"twitter.coffee"
+"twitter.coffee",
+"github-credentials.coffee"
 ]
