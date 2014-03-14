@@ -24,5 +24,6 @@
 "plusplus.coffee",
 "urban.coffee",
 "twitter.coffee",
-"github-credentials.coffee"
+"github-credentials.coffee",
+"dice.coffee"
 ]
