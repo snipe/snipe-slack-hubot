@@ -24,7 +24,6 @@
 "isup.coffee",
 "news.coffee",
 "phpdoc.coffee",
-"plusplus.coffee",
 "pypi.coffee",
 "redis-brain.coffee",
 "reload.coffee",
