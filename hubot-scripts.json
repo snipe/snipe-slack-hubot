@@ -1,8 +1,6 @@
 [
 "ascii.coffee",
 "aww.coffee",
-"base36.coffee",
-"base58.coffee",
 "base64.coffee",
 "coin.coffee",
 "dice.coffee",
