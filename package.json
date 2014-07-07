@@ -23,7 +23,7 @@
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-slack": "^2.0.1",
-    "hubot-vtr-scripts": ">= 1.0.3"
+    "hubot-vtr-scripts": ">= 1.0.3",
     "moment": "1.6.2",
     "flip": "~0.1.0",
     "jsdom": "0.8.10",
