@@ -26,6 +26,7 @@
     "hubot-vtr-scripts": ">= 1.0.3",
     "moment": "1.6.2",
     "flip": "~0.1.0",
+    "big-integer": "1.2.10",
     "jsdom": "0.8.10",
     "underscore": "1.3.3",
     "clark": "0.0.6",
@@ -34,6 +35,7 @@
     "htmlparser": "1.7.6",
     "soupselect": "0.2.0",
     "cheerio": "",
+    "pypi": "",
     "twit": "1.1.6"
 
   },
