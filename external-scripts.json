@@ -1,6 +1,4 @@
 [
 "hubot-plusplus",
-"hubot-vtr-scripts",
-"src/scripts/eponymous-laws.coffee",
-"src/scripts/rules-of-the-internet.coffee"
+"hubot-vtr-scripts"
 ]
