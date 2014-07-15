@@ -9,7 +9,7 @@
 #
 # Commands:
 #   hubot rule <number> - Returns rule <number>
-#   hubot rule list - Returns a list of all rules
+#   hubot rule list - Returns list of all rules
 #
 # Author:
 #   A. Gianotto - @snipe
@@ -75,6 +75,6 @@ module.exports = (robot) ->
       msg.send summary
     else    
       if rules[rule]
-        msg.send "Rule #{rule}: #{rules[rule]} " 
+        msg.send "Rule #{rule} is: #{rules[rule]} " 
       else 
         msg.send "No such rule, sucka" 
