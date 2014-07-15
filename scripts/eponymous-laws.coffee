@@ -199,7 +199,7 @@ laws =
   "say": "Say's law - Attributed to economist Jean-Baptiste Say by economist John Maynard Keynes, saying that \"supply creates its own demand\", i.e., if businesses produce more output in a free market economy, the wages and other payment for productive inputs will provide sufficient demand so that there is no general glut.[9]"
   "sayre": "Sayre's law - \"In any dispute the intensity of feeling is inversely proportional to the value of the stakes at issue.\" By way of corollary, the law adds: \"That is why academic politics are so bitter.\""
   "schneier": "Schneier's law - \"Any person can invent a security system so clever that she or he can't think of how to break it.\""
-  "schottky-Mott": "Schottky-Mott rule - Predicts the Schottky barrier height based on the vacuum work function of the metal relative to the vacuum electron affinity (or vacuum ionization energy) of the semiconductor. Named for Walter H. Schottky and Nevill Francis Mott."
+  "schottky-mott": "Schottky-Mott rule - Predicts the Schottky barrier height based on the vacuum work function of the metal relative to the vacuum electron affinity (or vacuum ionization energy) of the semiconductor. Named for Walter H. Schottky and Nevill Francis Mott."
   "segal": "Segal's law - \"A man with a watch knows what time it is. A man with two watches is never sure.\""
   "shermer": "Shermer's last law - A corollary of Clarke's three laws, it states that \"Any sufficiently advanced alien intelligence is indistinguishable from God.\" Originally posited in Michael Shermer's \"Skeptic\" column in the Jan 2002 issue of Scientific American."
   "shirky": "Shirky Principle - \"Institutions will try to preserve the problem to which they are the solution.\""
